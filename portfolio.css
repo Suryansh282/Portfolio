@@ -147,7 +147,8 @@ z-index: -1;
     position: absolute;
 }
 .user-image{
-    
+    width: 50%;
+    height: 20%;
     padding: 2.5rem;
     filter: grayscale(1);
     transition: all 1s;
